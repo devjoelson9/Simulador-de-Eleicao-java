@@ -1,0 +1,8 @@
+------------------Resultados da Eleição--------------------
+
+Candidato: Klaus Mikaelson | Percentual de Votos: 0,00%
+Candidato: Miguel Diaz | Percentual de Votos: 0,00%
+
+Votos em Branco: 0
+Votos Nulos: 0
+-----------------------------------------------------------

@@ -1,0 +1,21 @@
+------------------LISTA DOS ALUNOS---------------------------
+
+Nome: Maria Helena, Matricula: 2222
+Nome: José Vitor, Matricula: 3333
+Nome: Joao Rafael, Matricula: 4444
+Nome: Ana Patricia, Matricula: 5555
+Nome: Leticia Lima, Matricula: 6666
+Nome: Bruna Ferreira, Matricula: 7777
+ Total de Alunos: 6
+------------------LISTA DE DOCENTES---------------------------
+
+Nome: Miguel Diaz, matricula: 3131
+Nome: Yuri Alberto, matricula: 1010
+Nome: Teresa Perez, matricula: 2020
+ Total de Docentes: 3
+-------------------LISTA DE TECNICOS_ADMINISTRATIVOS-----------------------------------
+
+ Klaus Mikaelson, Matricula: 1231
+ Helena Beatriz, Matricula: 1111
+ Roberto Carlos, Matricula: 1212
+ Total de Tecnicos: 3

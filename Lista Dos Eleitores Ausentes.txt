@@ -1,0 +1,23 @@
+------------------LISTA DOS QUE NÃO VOTARAM---------------------------
+
+
+----------------ALUNOS---------------
+Nome: Maria Helena, Matrícula: 2222
+Nome: José Vitor, Matrícula: 3333
+Nome: Joao Rafael, Matrícula: 4444
+Nome: Ana Patricia, Matrícula: 5555
+Nome: Leticia Lima, Matrícula: 6666
+Nome: Bruna Ferreira, Matrícula: 7777
+
+-------------DOCENTES-------------
+Nome: Miguel Diaz, Matrícula: 3131
+Nome: Yuri Alberto, Matrícula: 1010
+Nome: Teresa Perez, Matrícula: 2020
+
+-------------TÉCNICOS------------
+Nome: Klaus Mikaelson, Matrícula: 1231
+Nome: Helena Beatriz, Matrícula: 1111
+Nome: Roberto Carlos, Matrícula: 1212
+
+
+
